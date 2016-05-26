@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>py_dummy_pkg</name>
+  <version>0.0.0</version>
+  <description>The py_dummpy_pkg package</description>
+  <maintainer email="dominique@todo.todo">dominique</maintainer>
+  <license>TODO</license>
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
