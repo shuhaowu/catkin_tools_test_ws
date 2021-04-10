@@ -1,5 +1,8 @@
 *.pyc
-.catkin_tools/
+.catkin_tools/profiles/**/build.yaml
+.catkin_tools/profiles/**/devel_collisions.txt
+.catkin_tools/profiles/**/packages/
+.catkin_tools/VERSION
 build/
 devel/
 install/
